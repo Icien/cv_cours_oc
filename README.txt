@@ -1,0 +1,1 @@
+Le Projet cv_cours_OC est créé dans le but de réaliser un cv en html pour une formation d'openclassroom. 
